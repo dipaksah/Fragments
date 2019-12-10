@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fragments with Navigation Bar</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_Circle">Area Of Circle</string>
+    <string name="menu_Palindrome">Palindrome</string>
+    <string name="menu_Swap">Swap</string>
+    <string name="menu_Automorphic">Automorphic</string>
+</resources>
